@@ -1,0 +1,16 @@
+button {
+  border-width: 0;
+}
+
+.up {
+  margin-left: 1rem;
+  background-color: #0275d8;
+}
+
+.down {
+  background-color: #5cb85c;
+}
+
+.remove {
+  background-color: #d9534f;
+}
